@@ -128,7 +128,7 @@
 
 
 - [uzulla](http://twitter.com/uzulla) - YAPCが開かれて欲しいので、今回なんとか個人で、省エネ自腹でやってみる事にした人間です
-- [maka2_donzoko](http://twitter.com/maka2_donzoko)
+- [makamaka](http://twitter.com/maka2_donzoko) - YAPCのLTが聴きたくて、uzullaさんと桃園で「我ら生まれたときは別々だが、死ぬときは別々だ！」と誓いました
 
 
 
