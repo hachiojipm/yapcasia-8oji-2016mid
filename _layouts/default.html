@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="container content">
+      <header class="masthead">
+        <h3 class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="Home">YAPC::Asia Hachioji 2016 mid in Shinagawa</a><br>
+          <small>"P" is not "Perl", "P" is "Pachimon".</small>
+        </h3>
+        <div style="text-align:right">
+          <small>
+            <a href="/">トップ</a> /
+            <a href="/aim">目標</a> /
+            <a href="/talks">トーク</a> /
+            <a href="/register">参加</a> /
+            <a href="/staff">スタッフ</a> /
+            <a href="/organizers">主催</a> /
+            <a href="/atom.xml">Feed</a>
+          </small>
+        </div>
+        <div style="text-align:right">
+          <small>
+            <p>twitter:<a href="https://twitter.com/yapcasia8oji">@yapcasia8oji</a> Hashtag:<a href="https://twitter.com/hashtag/yapc8oji?src=hash">#yapc8oji</a></p>
+          </small>
+        </div>
+        <hr style="margin:0;">
+      </header>
+
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <small>
+          <a href="https://github.com/hachiojipm/yapcasia-8oji-2016mid">本サイトリポジトリ</a> /
+          <a href="https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable">トーク応募リポジトリ</a> /
+          <a href="https://twitter.com/yapcasia8oji">Twitter:@yapcasia8oji</a><br>
+        </small>
+        <small>
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+        </small>
+      </footer>
+    </div>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-76315990-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

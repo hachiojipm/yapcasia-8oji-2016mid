@@ -1,0 +1,13 @@
+permalink:           pretty
+title:               YAPC::Asia Hachioji 2016mid in Shinagawa
+url:                 http://yapcasia8oji-2016mid.hachiojipm.org/
+paginate:            1
+baseurl:             ""
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
