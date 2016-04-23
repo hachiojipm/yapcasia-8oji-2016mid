@@ -1,1 +1,1 @@
-# yapcasia-8oji-2016mid
+# YAPC::Asia Hachioji 2016 mid in Shinagawa Web site.
