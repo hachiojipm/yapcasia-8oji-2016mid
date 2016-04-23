@@ -31,14 +31,14 @@ title: Aim
 
 # 開催概要(最大時)
 
-- 会場は品川にあるマイクロソフト様の会議室
+- 会場は品川にある<a href="https://www.google.co.jp/maps/place/35%C2%B037'36.3%22N+139%C2%B044'25.4%22E/@35.626739,139.7381923,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0">品川にあるマイクロソフトジャパン様のセミナールーム</a>
 - 7/2（土）7/3（日）の二日間開催、10〜19時（予定）
 - 登壇者は最大で50〜80人 (LT除く)
 - 聴講者は最大で150〜200人 (250-登壇者数)
 - トラック数は3、１ルームあたり70〜100人（ただし人数変動で縮小の可能性があります）
 - 会場にはマイクロソフト様の立派な無料Wifiがあります
 - 電源も完備されています（タップは持参ください）
-- 参加費はいただきません（ただし交通費等はそちらの自腹でお願いいたします）
+- 参加費はいただきません
 
 
 # FAQ
@@ -87,8 +87,3 @@ title: Aim
 
 - お手数ですが[主催者](/organizers)に御連絡ください
 
-# リンク集
-
-- [https://github.com/hachiojipm/yapcasia-8oji-2016mid](https://github.com/hachiojipm/yapcasia-8oji-2016mid) 本サイトのリポジトリ
-- [https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable) トーク応募のリポジトリ
-- [https://twitter.com/yapcasia8oji](https://twitter.com/yapcasia8oji) 公式ツイッター
