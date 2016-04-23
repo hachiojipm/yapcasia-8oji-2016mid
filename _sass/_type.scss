@@ -8,20 +8,21 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  font-family: $serif-font-family;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 h4, h5, h6 {
