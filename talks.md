@@ -7,7 +7,7 @@ title: Talks
 
 - [こちらからどうぞ](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable)
 - [応募されたトーク一覧はこちら](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues)
-- なんと、開催まで後２ヶ月くらいしかない、締切は5/31。あなたとYAPC、今すぐ応募！
+- 締切は5/31。あなたとYAPC、今すぐ応募！
 - 普通のトーク（1分〜50分）と、LT（1〜5分）を募集しています
 - あつまり具合でトークの長さ調整をお願いするかもしれません
 - 内容はIT系エンジニアが楽しめたり、ためになったりして、マットウな内容であればなんでも
