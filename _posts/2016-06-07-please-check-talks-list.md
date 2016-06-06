@@ -1,15 +1,15 @@
 ---
 layout: post
-title: レギュラートークの採択を行いました。
+title: レギュラー枠のトークが決定しました！
 ---
 
-大変お待たせ致しました、両日のタイムテーブルを作成いたしました！
+レギュラー枠のトークが決定いたしました！
 
-こちらのURLに掲載しておりますので、ご確認ください。
+こちらのURLにタイムテーブルを掲載しておりますので、是非ご確認ください。
 
 [https://docs.google.com/spreadsheets/d/1dNuUOdwEZtVD7dXHMLhWBgAa0XMT4CbcCzidfYKaKAo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1dNuUOdwEZtVD7dXHMLhWBgAa0XMT4CbcCzidfYKaKAo/edit?usp=sharing)
 
-（このURLは当座ご確認いただく為のもので、最終的にはこのURLは消され、別途見やすい形で作成いたします ）
+（このURLは当座ご確認いただく為のもので、別途見やすいページを作成予定です ）
 
 ***
 
