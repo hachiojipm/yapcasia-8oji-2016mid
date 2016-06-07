@@ -5,11 +5,14 @@ title: レギュラー枠のトークが決定しました！
 
 レギュラー枠のトークが決定いたしました！
 
-こちらのURLにタイムテーブルを掲載しておりますので、是非ご確認ください。
+採択させていただいたトークは以下の通りです！面白そうなトーク目白押し！
 
-[https://docs.google.com/spreadsheets/d/1dNuUOdwEZtVD7dXHMLhWBgAa0XMT4CbcCzidfYKaKAo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1dNuUOdwEZtVD7dXHMLhWBgAa0XMT4CbcCzidfYKaKAo/edit?usp=sharing)
+- [7月2日(土曜日)のトーク一覧](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aissue+is%3Aopen+label%3A7%2F2%28%E5%9C%9F%29%E6%B1%BA%E5%AE%9A)
+- [7月3日(日曜日)のトーク一覧](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aissue+is%3Aopen+label%3A7%2F3%28%E6%97%A5%29%E6%B1%BA%E5%AE%9A)
 
-（このURLは当座ご確認いただく為のもので、別途見やすいページを作成予定です ）
+タイムテーブルは以下より当座の簡易版をご覧いただけます（URLは後日変更されます）
+
+- [タイムテーブル簡易版(後日URLが変更されます)](/2016/06/07/please-check-talks-list/)
 
 ***
 

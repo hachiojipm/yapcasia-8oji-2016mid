@@ -5,7 +5,7 @@ title: Talks
 
 # 通常トーク募集は終了しました（LTは引き続き募集中です）
 
-採択されたトークはこちらです
+採択させていただいたトークは以下の通りです
 
 - [7月2日(土曜日)のトーク一覧](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aissue+is%3Aopen+label%3A7%2F2%28%E5%9C%9F%29%E6%B1%BA%E5%AE%9A)
 - [7月3日(日曜日)のトーク一覧](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aissue+is%3Aopen+label%3A7%2F3%28%E6%97%A5%29%E6%B1%BA%E5%AE%9A)
