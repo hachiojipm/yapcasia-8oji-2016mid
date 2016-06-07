@@ -18,10 +18,10 @@ title: Register
 
 それぞれの日付で応募が必要です！！
 
-- 7/3(日曜日)
+- 7/2(土曜日)
 - [http://connpass.com/event/33562/](http://connpass.com/event/33562/)
 
-- 7/3(日曜日)懇親会
+- 7/2(土曜日)懇親会
 - [http://connpass.com/event/33302/](http://connpass.com/event/33302/)
 
 - 7/3(日曜日)
