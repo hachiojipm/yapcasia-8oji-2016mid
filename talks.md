@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-# [通常トーク募集は終了しました、こちらからご確認ください](http://127.0.0.1:4000/2016/06/07/please-check-talks-list/)
+# [通常トーク募集は終了しました、こちらからご確認ください](/2016/06/07/please-check-talks-list/)
 
 # [LTは6/15まで募集中です！](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable)
 
