@@ -3,7 +3,16 @@ layout: page
 title: Talks
 ---
 
-# [通常トーク募集は終了しました、こちらからご確認ください](/2016/06/07/please-check-talks-list/)
+# 通常トーク募集は終了しました（LTは引き続き募集中です）
+
+採択されたトークはこちらです
+
+- [7月2日(土曜日)のトーク一覧](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aissue+is%3Aopen+label%3A7%2F2%28%E5%9C%9F%29%E6%B1%BA%E5%AE%9A)
+- [7月3日(日曜日)のトーク一覧](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aissue+is%3Aopen+label%3A7%2F3%28%E6%97%A5%29%E6%B1%BA%E5%AE%9A)
+
+タイムテーブルは以下より当座の簡易版をご覧いただけます（URLは後日変更されます）
+
+- [タイムテーブル簡易版(後日URLが変更されます)](/2016/06/07/please-check-talks-list/)
 
 # [LTは6/15まで募集中です！](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable)
 
