@@ -10,9 +10,9 @@ title: Talks
 - [7月2日(土曜日)のトーク一覧](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aissue+is%3Aopen+label%3A7%2F2%28%E5%9C%9F%29%E6%B1%BA%E5%AE%9A)
 - [7月3日(日曜日)のトーク一覧](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aissue+is%3Aopen+label%3A7%2F3%28%E6%97%A5%29%E6%B1%BA%E5%AE%9A)
 
-タイムテーブルは以下より当座の簡易版をご覧いただけます（URLは後日変更されます）
+タイムテーブルは以下よりご覧いただけます
 
-- [タイムテーブル簡易版(後日URLが変更されます)](/2016/06/07/please-check-talks-list/)
+- [タイムテーブル簡易版(後日URLが変更されます)](https://docs.google.com/spreadsheets/d/1dNuUOdwEZtVD7dXHMLhWBgAa0XMT4CbcCzidfYKaKAo/edit#gid=1919385676)
 
 # [LTは6/15まで募集中です！](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable)
 
