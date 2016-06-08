@@ -18,6 +18,8 @@ title: jumping in track
 
 なお、本飛び入りトラックの他に[LTソン](http://ltthon-yapc2012.hachiojipm.org/)スタイルのトラックも別に準備中です。詳細は追ってアナウンスするので、そちらも合わせてご検討ください。
 
+問い合わせ、質問などについては twitter:[@yapcasia8oji](https://twitter.com/yapcasia8oji)宛にメンションをお願い致します。
+
 # 飛び入りトラックタイムテーブル
 
 TBD
