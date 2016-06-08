@@ -12,7 +12,7 @@ title: レギュラー枠のトークが決定しました！
 
 タイムテーブルは以下より当座の簡易版をご覧いただけます（URLは後日変更されます）
 
-- [タイムテーブル簡易版(後日URLが変更されます)](/2016/06/07/please-check-talks-list/)
+- [タイムテーブル簡易版(後日URLが変更されます)](https://docs.google.com/spreadsheets/d/1dNuUOdwEZtVD7dXHMLhWBgAa0XMT4CbcCzidfYKaKAo/edit#gid=1919385676)
 
 ***
 
