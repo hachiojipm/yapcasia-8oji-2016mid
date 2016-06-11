@@ -17,7 +17,11 @@
   <meta name="keywords" content="YAPC,YAPC::Asia 2016,YAPCASIA,2016,Yet Another Pachimon Conference" />
   <meta name="description" content="YAPC::Asia Hachioji 2016 mid in Shinagawa. 2016/7/2(sat),3(sun) " />
 
-  <meta property="og:title" content="YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawa. 2016/7/2(sat),3(sun)" />
+  {% if page.title == "Home" %}
+    <meta property="og:title" content="YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawa. 2016/7/2(sat),3(sun)" />
+  {% else %}
+    <meta property="og:title" content="{{ page.title }} &middot; YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawa. 2016/7/2(sat),3(sun)" />    
+  {% endif %}
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://yapcasia8oji-2016mid.hachiojipm.org" />
+  <meta property="og:url" content="http://yapcasia8oji-2016mid.hachiojipm.org{{ page.url }}" />
 </head>
