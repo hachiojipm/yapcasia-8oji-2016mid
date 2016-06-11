@@ -7,9 +7,13 @@ title: 会場の情報
 
 # JR品川駅からマイクロソフトジャパン様のビルまで
 
-改札より東口のデッキにでて、そのままデッキを南に歩くのが一番スムーズです。
+改札より東口のデッキにでて、そのままデッキを南に歩くのが一番スムーズです。宜しければ以下の動画をみて予習下さい。（地上から行くと迷いやすいです…）
 
-TODO: 動画をここに貼る
+<iframe width="100%" height="250" src="http://www.youtube.com/embed/13612FraKtg" frameborder="0" allowfullscreen></iframe>
+
+(あるいはこちらも)
+
+<iframe width="100%" height="250" src="http://www.youtube.com/embed/J4WVbI-JBzs" frameborder="0" allowfullscreen></iframe>
 
 ### 公式アクセス情報
 
