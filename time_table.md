@@ -83,7 +83,7 @@ td.room-C{
 <tr><td>12:45</td><td></td><td></td></tr>
 <tr><td>12:50</td><td></td><td></td></tr>
 <tr><td>12:55</td><td></td><td></td></tr>
-<tr><td>13:00</td><td rowspan='10' class='room-B'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/23'>    [WIP] お前ら！！！！画面の中から出てこーーいい！！！！世の中は3次元だぞ！！！！！！！！！！！！！<br><small> by macopy a.k.a @mackee (50min)</small>  </a></td><td rowspan='10' class='room-C'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/14'>    MySQL 5.7 + MySQL Fabric + MySQL Routerでぼっこぼこに {する|された} はなし<br><small> by yoku0825 (50min)</small>  </a></td></tr>
+<tr><td>13:00</td><td rowspan='10' class='room-B'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/23'>    [WIP] お前ら！！画面の中から出てこーーいい！！世の中は3次元だぞ！！<br><small> by macopy a.k.a @mackee (50min)</small>  </a></td><td rowspan='10' class='room-C'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/14'>    MySQL 5.7 + MySQL Fabric + MySQL Routerでぼっこぼこに {する|された} はなし<br><small> by yoku0825 (50min)</small>  </a></td></tr>
 <tr><td>13:05</td></tr>
 <tr><td>13:10</td></tr>
 <tr><td>13:15</td></tr>
