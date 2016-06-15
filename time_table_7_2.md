@@ -44,9 +44,9 @@ th.time-col{
   <thead>
     <tr>
       <th class="time-col">時刻</th>
-      <th>A</th>
-      <th>B</th>
-      <th>C</th>
+      <th>Aルーム</th>
+      <th>Bルーム</th>
+      <th>Cルーム</th>
     </tr>
   </thead>
 
