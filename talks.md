@@ -12,7 +12,8 @@ title: Talks
 
 タイムテーブルは以下よりご覧いただけます
 
-- [タイムテーブル簡易版(後日URLが変更されます)](https://docs.google.com/spreadsheets/d/1dNuUOdwEZtVD7dXHMLhWBgAa0XMT4CbcCzidfYKaKAo/edit#gid=1919385676)
+- [7/2(土)](http://yapcasia8oji-2016mid.hachiojipm.org/time_table_7_2/)
+- [7/3(日)](http://yapcasia8oji-2016mid.hachiojipm.org/time_table_7_3/)
 
 # [LTは6/15まで募集中です！](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable)
 
