@@ -33,9 +33,9 @@ td.room-C{
   <thead>
     <tr>
       <th style="text-align: right">時刻</th>
-      <th width="30%">A</th>
-      <th width="30%">B</th>
-      <th width="30%">C</th>
+      <th>A</th>
+      <th>B</th>
+      <th>C</th>
     </tr>
   </thead>
 
@@ -163,9 +163,9 @@ td.room-C{
   <thead>
     <tr>
       <th style="text-align: right">時刻</th>
-      <th width="30%">A</th>
-      <th width="30%">B</th>
-      <th width="30%">C</th>
+      <th>A</th>
+      <th>B</th>
+      <th>C</th>
     </tr>
   </thead>
   <tbody>
