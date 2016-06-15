@@ -28,6 +28,16 @@ td.room-C{
 .room-C a{
   color:white;
 }
+
+th.time-col{
+  width:65px;
+}
+
+@media (max-width: 38em) {
+  th.time-col{
+    width:53px;
+  }
+}
 </style>
 
 <a name="7.2"></a>
@@ -37,7 +47,7 @@ td.room-C{
 <table style="table-layout: fixed;">
   <thead>
     <tr>
-      <th style="text-align: right; width:65px">時刻</th>
+      <th class="time-col">時刻</th>
       <th>A</th>
       <th>B</th>
       <th>C</th>
@@ -169,7 +179,7 @@ td.room-C{
 <table style="table-layout: fixed;">
   <thead>
     <tr>
-      <th style="text-align: right; width:65px">時刻</th>
+      <th class="time-col">時刻</th>
       <th>A</th>
       <th>B</th>
       <th>C</th>
