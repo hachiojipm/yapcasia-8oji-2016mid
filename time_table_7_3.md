@@ -1,6 +1,6 @@
 ---
 layout: page
-title: タイムテーブル
+title: 7/3(日)タイムテーブル
 ---
 
 <style>
@@ -39,10 +39,6 @@ th.time-col{
   }
 }
 </style>
-
-<a name="7.2"></a>
-
-# 7/2(土)
 
 <table style="table-layout: fixed;">
   <thead>
@@ -166,7 +162,6 @@ th.time-col{
 <tr><td>18:20</td><td></td><td></td><td></td></tr>
 <tr><td>18:25</td><td></td><td></td><td></td></tr>
 <tr><td>18:30</td><td></td><td></td><td></td></tr>
-
 
 
 
