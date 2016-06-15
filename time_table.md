@@ -7,6 +7,7 @@ title: タイムテーブル
 td.room-A{
   background-color:#3D739C !important;
   vertical-align: top;
+  word-wrap: break-word;
 }
 .room-A a{
   color:white;
@@ -14,6 +15,7 @@ td.room-A{
 td.room-B{
   background-color:#5D83AC !important;
   vertical-align: top;
+  word-wrap: break-word;
 }
 .room-B a{
   color:white;
@@ -21,18 +23,21 @@ td.room-B{
 td.room-C{
   background-color:#3D739C !important;
   vertical-align: top;
+  word-wrap: break-word;
 }
 .room-C a{
   color:white;
 }
 </style>
 
+<a name="7.2"></a>
+
 # 7/2(土)
 
-<table>
+<table style="table-layout: fixed;">
   <thead>
     <tr>
-      <th style="text-align: right">時刻</th>
+      <th style="text-align: right; width:65px">時刻</th>
       <th>A</th>
       <th>B</th>
       <th>C</th>
@@ -157,12 +162,14 @@ td.room-C{
 
 </table>
 
+<a name="7.3"></a>
+
 # 7/3(日)
 
-<table>
+<table style="table-layout: fixed;">
   <thead>
     <tr>
-      <th style="text-align: right">時刻</th>
+      <th style="text-align: right; width:65px">時刻</th>
       <th>A</th>
       <th>B</th>
       <th>C</th>
