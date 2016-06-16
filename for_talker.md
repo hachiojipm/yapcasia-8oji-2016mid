@@ -62,5 +62,7 @@ title: 登壇者向け情報
 - 事前であれば[公式Twitterアカウント @yapc8oji](https://twitter.com/yapcasia8oji)へ、当日でお急ぎの場合はスタッフにお気軽にお声がけください。
 
 
+# おまけ
 
+- [登壇初心者のみなさんへ](http://yapcasia8oji-2016mid.hachiojipm.org/2016/06/11/for-beginner-talker/)
 
