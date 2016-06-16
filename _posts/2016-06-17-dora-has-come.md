@@ -31,3 +31,4 @@ LTといえば銅鑼ですよ、銅鑼。登壇者の持ち時間が終了した
 これはバリ島の銅鑼で、大きさも結構あります。鉄です。重いです。3kg超えてます。持ち続けられるのか？
 
 [LTの募集](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues?q=is%3Aopen+is%3Aissue+label%3ALT%E5%BF%9C%E5%8B%9F)は既に終了していますが、二日間のLTではこの銅鑼がジャンジャン鳴らされることを今から楽しみにしております。
+
