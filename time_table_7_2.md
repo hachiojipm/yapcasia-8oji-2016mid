@@ -40,6 +40,8 @@ th.time-col{
 }
 </style>
 
+[![](/images/floor_map.png)](/images/floor_map.png)
+
 <table style="table-layout: fixed;">
   <thead>
     <tr>
