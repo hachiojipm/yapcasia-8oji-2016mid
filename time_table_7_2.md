@@ -55,6 +55,7 @@ th.time-col{
 <tbody>
 
 
+
 <tr><td>09:30</td><td></td><td></td><td></td></tr>
 <tr><td>09:35</td><td></td><td></td><td></td></tr>
 <tr><td>09:40</td><td></td><td></td><td></td></tr>
@@ -147,18 +148,18 @@ th.time-col{
 <tr><td>16:55</td><td></td></tr>
 <tr><td>17:00</td><td></td><td></td><td></td></tr>
 <tr><td>17:05</td><td></td><td></td><td></td></tr>
-<tr><td>17:10</td><td></td><td></td><td rowspan='12' class='room-C'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/112'>    Lightning Talks 1日目<br><small> by - (60min)</small>  </a></td></tr>
-<tr><td>17:15</td><td></td><td></td></tr>
-<tr><td>17:20</td><td></td><td></td></tr>
-<tr><td>17:25</td><td></td><td></td></tr>
-<tr><td>17:30</td><td></td><td></td></tr>
-<tr><td>17:35</td><td></td><td></td></tr>
-<tr><td>17:40</td><td></td><td></td></tr>
-<tr><td>17:45</td><td></td><td></td></tr>
-<tr><td>17:50</td><td></td><td></td></tr>
-<tr><td>17:55</td><td></td><td></td></tr>
-<tr><td>18:00</td><td></td><td></td></tr>
-<tr><td>18:05</td><td></td><td></td></tr>
+<tr><td>17:10</td><td rowspan='12' class='room-A'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/114'>    Lightning Talks 1日目 A room<br><small> by - (60min)</small>  </a><br><br><small>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/31'>[LT] 海外カンファレンスで初めてLTして楽しかった話 by @zyunnosuke</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/55'>DMM英会話はいいぞ by hiragram</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/82'>ES6/Reactが当たり前の現場に入って感じたこと by yutaszk</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/93'>[LT] ESLintを使ってES2015の記法を覚える by sota1235</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/100'>[LT]新卒研修中でコードが書けない苦しみから脱するためにやったこと by bird_nitryn</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/109'>[LT応募] PHPのライブラリをcomposer経由で公開した話 by にゃー (mirai_iro)</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/110'>[LT]そんなスクラムなら止めちまえ by i47_rozary</a><br></small></td><td></td><td rowspan='12' class='room-C'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/112'>    Lightning Talks 1日目 C room<br><small> by - (60min)</small>  </a><br><br><small>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/21'>[LT] Scratch事始め　キーキー by makamaka</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/42'>Slack で Podcast を録ってる話 by Masaki</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/86'>夏のフィッシングまつり by nabesin</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/92'>(LT) CNC フライスのススメ by github.com/cho45/</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/96'>[LT] とあるイルカの近況報告 by - [yoku0825](https://twitter.com/yoku0825)</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/102'>[LT] 機械学習による株式/先物投資モデル作りかた by kurain</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/105'>[LT] ひと目で尋常でないポジトラだと見抜いたよ by 安達亮介</a><br>- <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/107'>[LT] おまえらのBBQは間違っている by Daisuke Maki (lestrrat)</a><br></small></td></tr>
+<tr><td>17:15</td><td></td></tr>
+<tr><td>17:20</td><td></td></tr>
+<tr><td>17:25</td><td></td></tr>
+<tr><td>17:30</td><td></td></tr>
+<tr><td>17:35</td><td></td></tr>
+<tr><td>17:40</td><td></td></tr>
+<tr><td>17:45</td><td></td></tr>
+<tr><td>17:50</td><td></td></tr>
+<tr><td>17:55</td><td></td></tr>
+<tr><td>18:00</td><td></td></tr>
+<tr><td>18:05</td><td></td></tr>
 <tr><td>18:10</td><td></td><td></td><td></td></tr>
 <tr><td>18:15</td><td></td><td></td><td></td></tr>
 <tr><td>18:20</td><td></td><td></td><td></td></tr>
