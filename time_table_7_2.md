@@ -112,7 +112,7 @@ th.time-col{
 <tr><td>13:55</td><td></td><td></td><td></td></tr>
 <tr><td>14:00</td><td></td><td></td><td></td></tr>
 <tr><td>14:05</td><td></td><td></td><td></td></tr>
-<tr><td>14:10</td><td rowspan='8' class='room-A'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/32'>    つくって学ぶコンテナ型仮想化の裏側<br><small> by hayajo (40min)</small>  </a></td><td rowspan='8' class='room-B'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/59'>    PHPオレオレWAFを本番導入した話<br><small> by osushi (40min)</small>  </a></td><td rowspan='8' class='room-C'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/38'>    AWSのオートスケールとなかよく付き合う<br><small> by fujiwara (40min)</small>  </a></td></tr>
+<tr><td>14:10</td><td rowspan='8' class='room-A'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/32'>    つくって学ぶLinuxコンテナの裏側<br><small> by hayajo (40min)</small>  </a></td><td rowspan='8' class='room-B'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/59'>    PHPオレオレWAFを本番導入した話<br><small> by osushi (40min)</small>  </a></td><td rowspan='8' class='room-C'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/38'>    AWSのオートスケールとなかよく付き合う<br><small> by fujiwara (40min)</small>  </a></td></tr>
 <tr><td>14:15</td></tr>
 <tr><td>14:20</td></tr>
 <tr><td>14:25</td></tr>
