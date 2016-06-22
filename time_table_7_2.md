@@ -42,7 +42,7 @@ th.time-col{
 
 [![](/images/floor_map.png)](/images/floor_map.png)
 
-* Room D では10:00〜16:30に[/jumping_in_track](飛び入りトラック)が開催されています。
+* Room D では10:00〜16:30に[飛び入りトラック](/jumping_in_track)が開催されています。
 
 <table style="table-layout: fixed;">
   <thead>
