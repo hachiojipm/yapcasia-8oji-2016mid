@@ -69,7 +69,7 @@ th.time-col{
 <tr><td>10:10</td></tr>
 <tr><td>10:15</td><td></td><td></td></tr>
 <tr><td>10:20</td><td></td><td></td></tr>
-<tr><td>10:25</td><td rowspan='5' class='room-A'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/20'>    [WIP] ScalaでつくるInvalid stateのない世界<br><small> by takkkun (25min)</small>  </a></td><td rowspan='5' class='room-B'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/17'>    [WIP] あなたがエンタープライズファンクショナルPHPライブラリTeto\Functoolsを採用しなければならない11個の理由<br><small> by ぞぬえぐぜ/っどさん (25min)</small>  </a></td></tr>
+<tr><td>10:25</td><td rowspan='5' class='room-A'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/20'>    ScalaでつくるInvalid stateのない世界<br><small> by takkkun (25min)</small>  </a></td><td rowspan='5' class='room-B'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/17'>    [WIP] あなたがエンタープライズファンクショナルPHPライブラリTeto\Functoolsを採用しなければならない11個の理由<br><small> by ぞぬえぐぜ/っどさん (25min)</small>  </a></td></tr>
 <tr><td>10:30</td></tr>
 <tr><td>10:35</td></tr>
 <tr><td>10:40</td><td></td></tr>
