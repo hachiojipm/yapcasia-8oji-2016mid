@@ -33,6 +33,7 @@ title: 登壇者様のブログ記事などご紹介
 - [YAP(achimon)C::Asia Hachioji 2016 にペパボから5人のエンジニアが登壇します！ - ペパボテックブログ](http://tech.pepabo.com/2016/06/09/yapc8oji/)
 - [ヤパチートーク応募した - hitode909の日記](http://blog.sushi.money/entry/2016/05/31/180347)
 - [スマートフォンアプリ開発における共創的な開発チーム - ninjinkun&#39;s diary](http://ninjinkun.hatenablog.com/entry/2016/06/12/161202)
+- [Rubyでifとwhileをメソッド化する -- Smalltalkライクな構文をRubyにも - Line 1: Error: Invalid Blog(&#39;by Esehara&#39; )](http://bugrammer.hateblo.jp/entry/2016/06/14/070734)
 
 ### 登壇者ではない方のエントリなどはこちら
 
