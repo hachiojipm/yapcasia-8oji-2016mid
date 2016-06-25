@@ -143,7 +143,7 @@ th.time-col{
 <tr><td>16:15</td></tr>
 <tr><td>16:20</td><td></td><td></td><td></td></tr>
 <tr><td>16:25</td><td></td><td></td><td></td></tr>
-<tr><td>16:30</td><td rowspan='8' class='room-A'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/34'>    Webサービスにおけるキャッシュ戦略<br><small> by Yusuke Wada (40min)</small>  </a></td><td rowspan='3' class='room-B'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/80'>    Docker Compose PaaS の作り方、そして社内に導入した話<br><small> by dtan4 (15min)</small>  </a></td><td rowspan='8' class='room-C'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/22'>    ウェブサービスの立ち上げ期〜成長期における開発フローの変遷ケーススタディ的な話<br><small> by shimobayashi (40min)</small>  </a></td></tr>
+<tr><td>16:30</td><td rowspan='8' class='room-A'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/34'>    Webサービスにおけるキャッシュ戦略<br><small> by Yusuke Wada (40min)</small>  </a></td><td rowspan='3' class='room-B'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/80'>    Docker Compose PaaS の作り方、そして社内に導入した話<br><small> by dtan4 (15min)</small>  </a></td><td rowspan='8' class='room-C'>  <a href='https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/22'>開発フローケーススタディ<br><small> by shimobayashi (40min)</small>  </a></td></tr>
 <tr><td>16:35</td></tr>
 <tr><td>16:40</td></tr>
 <tr><td>16:45</td><td></td></tr>
