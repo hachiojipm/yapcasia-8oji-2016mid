@@ -43,6 +43,7 @@ th.time-col{
 [![](/images/floor_map.png)](/images/floor_map.png)
 
 * Room D では10:00〜16:30に[飛び入りトラック](/jumping_in_track)が開催されています。
+* [良かったトークに投票してベストトーカーをきめましょう！](https://vote.yapcasia8oji-2016mid.hachiojipm.org/)
 
 <table style="table-layout: fixed;">
   <thead>
