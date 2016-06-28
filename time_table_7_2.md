@@ -49,9 +49,9 @@ th.time-col{
   <thead>
     <tr>
       <th class="time-col">時刻</th>
-      <th>Aルーム</th>
-      <th>Bルーム</th>
-      <th>Cルーム</th>
+      <th>Aルーム <a href="https://twitter.com/search?f=tweets&vertical=default&q=%23yapc8ojiA">#yapc8ojiA</a></th>
+      <th>Bルーム <a href="https://twitter.com/search?f=tweets&vertical=default&q=%23yapc8ojiB">#yapc8ojiB</a></th>
+      <th>Cルーム <a href="https://twitter.com/search?f=tweets&vertical=default&q=%23yapc8ojiC">#yapc8ojiC</a></th>
     </tr>
   </thead>
 
