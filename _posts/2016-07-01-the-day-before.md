@@ -18,7 +18,7 @@ title: ついに前日！
 
 また、来場時にはかならずConnpassの受付表をご用意ください。受付表の確認の仕方は公式サイトに記載しております
 
-http://yapcasia8oji-2016mid.hachiojipm.org/venue_info/
+[http://yapcasia8oji-2016mid.hachiojipm.org/venue_info/](http://yapcasia8oji-2016mid.hachiojipm.org/venue_info/)
 
 その他会場の諸注意が記載されておりますので是非ご確認ください。
 
@@ -36,7 +36,7 @@ http://yapcasia8oji-2016mid.hachiojipm.org/venue_info/
 
 必ず登壇者向け情報をご確認ください。
 
-http://yapcasia8oji-2016mid.hachiojipm.org/for_talker/
+[http://yapcasia8oji-2016mid.hachiojipm.org/for_talker/](http://yapcasia8oji-2016mid.hachiojipm.org/for_talker/)
 
 プロジェクタの接続テストは朝が一番快適です。
 
@@ -47,7 +47,7 @@ http://yapcasia8oji-2016mid.hachiojipm.org/for_talker/
 
 また、何人か懇親会キャンセルがでており、繰り上がっております、ぜひご確認ください。（もし、どうしても懇親会キャンセルするなら、お早めにお願いします）
 
-これ以上キャンセルがでたら主催が死ぬ…ではなく、当日急遽参加者募集するかもです。（そう言う意味で、キャンセルしてくれる方はNo showよりはありがたいのですが）
+これ以上キャンセルがでたら主催が死ぬ…ではなく、空きがでたら追加で参加者募集をします。（そう言う意味で、キャンセルしてくれる方はNo showよりはありがたいのですが）
 
 では、会場でお待ちしております！
 宜しくお願いいたします！
