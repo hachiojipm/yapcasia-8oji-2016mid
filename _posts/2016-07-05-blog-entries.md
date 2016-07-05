@@ -8,7 +8,7 @@ title: 参加感想エントリなどリンク集！
 皆さんよりお送りいただきましたエントリのリンク集がこちらです！
 
 このエントリは随時更新されます、そして[こちらのフォームにて随時募集中](https://docs.google.com/forms/d/1u85WOnWuNWvB8tzdx7Enjtsygp8EHuMUX5toWDbi2_I/viewform)です！
-(もし、修正したい場合には、プルリクをいただくか、公式ツイッターにMentionください）
+(もし、修正したい場合には、[こちらよりプルリク](https://github.com/hachiojipm/yapcasia-8oji-2016mid/blob/gh-pages/_posts/2016-07-05-blog-entries.md)いただくか、公式ツイッターにMentionください）
 
 
 - [oza_shu](http://ozashu.hatenablog.com/entry/2016/07/03/033650)
