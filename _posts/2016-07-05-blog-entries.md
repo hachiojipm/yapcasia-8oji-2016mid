@@ -36,3 +36,5 @@ title: 参加感想エントリなどリンク集！
 - [やっさんメモ/@yassan168/YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawa（2日目）に行ってきた](http://yassan.hatenablog.jp/entries/2016/07/05)
 - [「やっぱち」に参加したよ。最高だったよ。（どんぞこ楽屋）](http://www.donzoko.net/cgi-bin/tdiary/20160705.html)
 - [サイト名:YAPC::ASIA Hachioji 2016 in Shinagawaに登壇＆ボランティアスタッフとして参加しました エントリ名:チーム全員でお申し込み数を２倍にした話 お名前: バーチー](http://blog.hypermkt.jp/yapcasia-hachioji-2016-in-shinagawa/)
+- [YAPC::Asia Hachioji 1日目 + トークしてきました - ravelll の日記](http://ravelll.hatenadiary.jp/entry/2016/07/03/145021)
+- [YAPC::Asia Hachioji 2日目 - ravelll の日記](http://ravelll.hatenadiary.jp/entry/2016/07/04/233604)
