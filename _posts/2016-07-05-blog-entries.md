@@ -18,7 +18,7 @@ title: 参加感想エントリなどリンク集！
 - [パチモンの方のYAPCに参加してきました - ゆーすけべー日記](http://blog.yusuke.be/entry/2016/07/04/074850)
 - [俺イケ！！！ - YAP(achimon)C::Asia Hachioji 2016 に参加(登壇)させていただいきました @jigyakkuma_](http://blog.jigyakkuma.org/2016/07/02/yapcasia8oji/)
 - [YAP(achimon)Cでブロックチェーンをテーマにトークした & スタッフとしてお手伝いした — Medium](https://medium.com/@timakin/yap-achimon-c%E3%81%A7%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E3%83%88%E3%83%BC%E3%82%AF%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E3%81%97%E3%81%A6%E3%81%8A%E6%89%8B%E4%BC%9D%E3%81%84%E3%81%97%E3%81%9F-63f9f9d1810f?source=linkShare-85fe747efada-1467592845)
-- [[うえしー (@uessy_akr) | koalability] やぱちー #yapc8oji に参加して人生初LTした](http://koalability.com/article/150)
+- [ うえしー (@uessy_akr) | koalability やぱちー #yapc8oji に参加して人生初LTした](http://koalability.com/article/150)
 - [YAPC::Asia Hachioji 2016に行きました - $shibayu36->blog;](http://blog.shibayu36.org/entry/2016/07/03/204519)
 - [スタッフ・LTしました（すてにゃん）](http://stefafafan.hatenablog.com/entry/2016/07/03/214803)
 - [YAPC::Asia Hachioji 2016 mid in Shinagawaで話した、スタッフした！](http://kikumoto.hatenablog.com/entry/2016/07/04/110527)
