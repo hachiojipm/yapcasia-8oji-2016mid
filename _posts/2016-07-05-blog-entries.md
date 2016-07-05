@@ -41,6 +41,6 @@ title: 参加感想エントリなどリンク集！
 - [YAP(achimon)C::Asiaで『ユニクロの レジから学ぶ goroutine』という発表をしました #yapc8oji - catatsuyとは](http://catatsuy.hateblo.jp/entry/2016/07/04/212532)
 - [やぱちー行ってブラウザ拡張友だち募集トークしてきた - ぱすたけ日記](http://pastak-diary.hatenadiary.com/entry/2016/07/05/130800)
 - [Let's write β - YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawa でスタッフをしてきました！](http://poketo7878-dev.hatenablog.com/entry/2016/07/05/145503)
-- [YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawaに弊社のエンジニアが延べ4名登壇しました | GMOメディア エンジニアブログ](http://tech.gmo-media.jp/post/146882443294/yapc-2016)
+- [YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawaに弊社のエンジニアが延べ4名登壇しました \| GMOメディア エンジニアブログ](http://tech.gmo-media.jp/post/146882443294/yapc-2016)
 - [YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawaに参加して、こっそり発表もしてみた！：@yutacar](http://yutacar.net/post/146928129989/yapachimoncasia-hachioji-2016-mid-in)
 - [ヤパチー参加した by takkkun](http://takkkun.hatenablog.com/entry/2016/07/05/YAP%28achimon%29C%3A%3AAsia_Hachioji_2016_mid_in_Shinagawa%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F)
