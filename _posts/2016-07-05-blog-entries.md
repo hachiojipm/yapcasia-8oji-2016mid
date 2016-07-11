@@ -49,3 +49,4 @@ title: 参加感想エントリなどリンク集！
 - [俺たちのヤパチーはこれからだ！！！！](http://damenaragyouza.hatenablog.jp/entry/2016/07/07/152543)
 - [YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawaで発表してきたぞ！の段 - ときすでにおすし](http://osushi.me/entries/1)
 - [品川は八王子なんだぜ 〜 YAPC::ASIA HACHIOJI 2016 mid in Shinagawa 〜](https://note.mu/kkotaro0111/n/ncd5c03234e8d)
+- [/\A toku_?bass \z/x: YAP(achimon)C::Asia Hachioji 2016 の感想（飛び入りトークしてきた）](http://blog.tokubass.net/2016/07/yapachimoncasia-hachioji-2016.html)
