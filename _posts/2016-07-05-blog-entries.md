@@ -53,3 +53,11 @@ title: 参加感想エントリなどリンク集！
 - [YAP(achimon)C::Asia Hachioji 2016 をやってきたぞ](http://motchang.hatenablog.com/entries/2016/07/04)
 - [mahoyaya's diary/ヤパチーでスタッフしてきた](http://mahoyaya.hateblo.jp/entry/2016/07/11/003942)
 - [YAPC::Asia Hachioji 2016 mid in Shinagawa へ行ってきた #yapc8oji \| こえむの編集後記](https://www.koemu.com/blog/2016/07/27/yapcasia-hachioji-2016/)
+
+
+なお、当日のTogetterもございます
+
+- [開催前](http://togetter.com/li/993777)
+- [7/2(土)](http://togetter.com/li/994680)
+- [7/3(日)](http://togetter.com/li/995139)
+- [開催後](http://togetter.com/li/995670)
